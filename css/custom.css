@@ -1,0 +1,47 @@
+.card-body{
+    
+
+
+}
+.card-signin {
+    border: 0;
+    border-radius: 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.radius{
+	border-radius: 25px;
+}
+.btn-google {
+    color: white;
+    background-color: #ea4335;
+}
+.background{
+background-image: url("img_girl.jpg");
+
+  /* Full height */
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
